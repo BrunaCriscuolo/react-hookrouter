@@ -1,14 +1,12 @@
 <p align="center">
   <p align="center">
-   <b>Base e configuração para projetos em React - JS</b>
+   <b>Aplicação usando hookrouter</b>
   </p>
 </p>
 
 ## :hammer_and_wrench: Tecnologias
 
-- [ESLint](https://eslint.org/)
-- [Husky](https://www.npmjs.com/package/husky)
-- [Prettier](https://prettier.io/)
+- [Hookrouter](https://www.npmjs.com/package/hookrouter)
 
 ---
 
@@ -16,7 +14,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/BrunaCriscuolo/react-base-js-config.git
+$ git clone https://github.com/BrunaCriscuolo/react-hookrouter.git
 
 # Acesse a pasta do projeto
 
